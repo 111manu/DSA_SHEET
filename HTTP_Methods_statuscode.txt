@@ -1,0 +1,1 @@
+https://apiguide.readthedocs.io/en/latest/build_and_publish/use_HTTP_methods.html
